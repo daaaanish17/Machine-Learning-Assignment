@@ -1,10 +1,10 @@
 # Machine-Learning-Assignment
 
 ## Information
-python libraries that are used in this assignment are
+Python libraries that are used in this assignment are:
 * Pandas
 * nltk(Natural Language Toolkit)
-* re(Regular Expression).
+* re(Regular Expression)
 
 
 Using nltk(Natural Language Toolkit) library to perform these tasks:

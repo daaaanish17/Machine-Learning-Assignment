@@ -1,7 +1,11 @@
 # Machine-Learning-Assignment
 
 ## Information
-Python libraries(Pandas, nltk(Natural Language Toolkit), re(Regular Expression)).
+python libraries that are used in this assignment are
+* Pandas
+* nltk(Natural Language Toolkit)
+* re(Regular Expression).
+
 
 Using nltk(Natural Language Toolkit) library to perform these tasks:
 * Tokenization (Tokenization is a way of separating a piece of text into smaller units called tokens.)
